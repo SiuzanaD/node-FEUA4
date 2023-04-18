@@ -1,0 +1,7 @@
+{
+    "title":"express.js introduction",
+    "version": "1.0",
+    "scripts": {
+        "start": "node index.js"
+    }
+}

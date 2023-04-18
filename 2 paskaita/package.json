@@ -1,0 +1,10 @@
+{
+    "title": "2 paskaita front + back",
+    "version": "0.1",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5"
+    }
+}
