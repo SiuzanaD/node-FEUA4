@@ -1,6 +1,6 @@
 {
-    "title": "My first Node.js application",
-    "version": "0.1",
+    "title": "Backend + frontend",
+    "version": "1.0",
     "scripts": {
         "start": "node index.js"
     },
