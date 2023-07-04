@@ -10,7 +10,7 @@ const cart = [];
 
 // 1
 app.get("/cart", (req, res) => {
-  res.send(cart);
+  res.send(cart); //send universalas siuncia atsakyma
 });
 
 // 3
